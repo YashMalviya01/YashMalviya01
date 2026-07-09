@@ -1,14 +1,29 @@
-🚀 AI & Data Science Professional | Turning Data into Impact
+# 🚀 AI & Data Professional | Engineering Data into Business Impact
 
-I am a results-driven Artificial Intelligence and Data Science professional with a strong analytical mindset and a proven ability to convert complex data into meaningful business insights. What sets me apart is not just technical expertise, but my disciplined approach to problem-solving, precision in execution, and relentless commitment to excellence.
+I build data solutions that do more than describe what happened—they uncover **why it happened, what matters, and what should happen next**.
 
-My experience spans both Data Analyst and Data Scientist roles, allowing me to work confidently across the entire data lifecycle—from data extraction and cleaning to advanced analytics, visualisation, and predictive modelling. With hands-on expertise in Python, SQL, Power BI, and machine learning techniques, I deliver solutions that are not only accurate, but actionable.
+As an **AI and Data Science professional**, I work across the complete analytics lifecycle: transforming complex, high-volume datasets into scalable data models, cloud-based analytical pipelines, executive dashboards, and decision-ready insights. My expertise spans **data analytics, data engineering, business intelligence, and applied machine learning**, allowing me to connect technical execution directly with measurable business value.
 
-I thrive in environments where data drives decisions. I approach every dataset with curiosity, every problem with structure, and every project with ownership. My strength lies in bridging the gap between raw data and strategic insight—communicating complex findings with clarity and impact.
+My technology stack includes **Python, SQL, PostgreSQL, AWS, Snowflake, Tableau, Excel, Docker, and Git**. I have designed end-to-end analytics solutions involving data extraction, transformation, dimensional modelling, advanced SQL analysis, cloud data processing, visualisation, and predictive modelling.
 
-Beyond technical skills, I am known for my consistency, adaptability, and strong work ethic. I continuously upskill to stay aligned with the evolving AI and data landscape, ensuring long-term value for the teams and organisations I work with.
+What differentiates me is the way I approach problems: with **curiosity, structure, precision, and ownership**. I do not treat analytics as a collection of tools or dashboards. I focus on understanding the business problem, engineering reliable data foundations, identifying meaningful patterns, and communicating insights that stakeholders can act on with confidence.
 
-🎯 My goal: to create measurable impact through data, grow as a high-performing data professional, and contribute to building intelligent, data-driven systems that matter.
+My work includes:
 
-📌 Open to opportunities in:
-Data Analyst | Data Scientist | AI-driven roles
+* Architecting end-to-end analytics workflows across local and cloud environments
+* Processing and analysing **500K+ records** across sales, customer, operational, and e-commerce datasets
+* Designing **star schemas, dimensional data models, ETL workflows, and analytical data layers**
+* Developing advanced SQL solutions using **CTEs, window functions, cohort analysis, customer segmentation, and lifetime-value modelling**
+* Building cloud analytics pipelines with **AWS S3, Glue, Athena, and Snowflake**
+* Creating executive dashboards focused on **revenue growth, profitability, customer retention, operational performance, and geographic intelligence**
+* Applying statistical analysis and machine learning to transform historical data into predictive insight
+
+Beyond technical capability, I bring consistency, adaptability, and a strong execution mindset. I continuously expand my expertise across modern AI, analytics, and cloud ecosystems—not to collect technologies, but to build solutions that are scalable, explainable, and valuable in real-world environments.
+
+> **Raw data is only potential. Impact begins when it becomes intelligence.**
+
+🎯 **Mission:** Engineer intelligent, data-driven systems that convert complexity into clarity and insight into measurable outcomes.
+
+📌 **Open to opportunities:**
+**Data Analyst | Business Intelligence Analyst | Data Scientist | Analytics Engineer | AI & Data Roles**
+
