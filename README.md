@@ -1,8 +1,5 @@
 # 🚀 AI & Data Professional | Engineering Data into Business Impact
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMalviya01&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMalviya01&layout=compact)
-
 I build data solutions that do more than describe what happened—they uncover **why it happened, what matters, and what should happen next**.
 
 As an **AI and Data Science professional**, I work across the complete analytics lifecycle: transforming complex, high-volume datasets into scalable data models, cloud-based analytical pipelines, executive dashboards, and decision-ready insights. My expertise spans **data analytics, data engineering, business intelligence, and applied machine learning**, allowing me to connect technical execution directly with measurable business value.
