@@ -15,13 +15,6 @@ I'm currently open to **Data Analyst, BI Analyst, Data Scientist, and Analytics 
 
 ---
 
-### 📊 GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMalviya01&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMalviya01&layout=compact&hide_border=true)
-
----
-
 ### 🚀 Featured Projects
 
 **[Contoso Customer Analysis](https://github.com/YashMalviya01/Contoso_Customer_Analysis)**
