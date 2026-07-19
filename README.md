@@ -6,6 +6,7 @@ I'm currently open to **Data Analyst, BI Analyst, Data Scientist, and Analytics 
 
 📍 LinkedIn: [yash-malviya-03433b258](https://www.linkedin.com/in/yash-malviya-03433b258/)
 🌐 Portfolio: [yash-malviya-da-portfolio.netlify.app](https://yash-malviya-da-portfolio.netlify.app)
+📈 Tableau: [https://public.tableau.com/app/profile/yash.malviya6387/vizzes]
 
 ---
 
