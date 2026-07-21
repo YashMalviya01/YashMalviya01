@@ -2,7 +2,7 @@
 
 I'm a data analyst who likes turning messy datasets into decisions someone can actually act on. My work sits across SQL, Python, and BI tools — from raw data to a dashboard a stakeholder trusts.
 
-I'm currently open to **Data Analyst, BI Analyst, Data Scientist, and Analytics Engineer** roles.
+I'm currently open to **Data Analyst, Business Analyst, BI Analyst, Data Scientist, and Analytics Engineer** roles.
 
 📍 LinkedIn: [yash-malviya-03433b258](https://www.linkedin.com/in/yash-malviya-03433b258/)
 🌐 Portfolio: [yash-malviya-da-portfolio.netlify.app](https://yash-malviya-da-portfolio.netlify.app)
