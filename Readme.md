@@ -45,7 +45,7 @@ SQL → Python → BI dashboard a stakeholder trusts.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashMalviya01&background=0D1117&ring=F2B84B&fire=F2B84B&currStreakLabel=E6EDF3&sideLabels=8B96A5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B96A5&border=28303D" />
+<img src="https://streak-stats.demolab.com/?user=YashMalviya01&background=0D1117&ring=F2B84B&fire=F2B84B&currStreakLabel=E6EDF3&sideLabels=8B96A5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B96A5&border=28303D" />
 </p>
 
 <p align="center">
@@ -82,4 +82,3 @@ SQL → Python → BI dashboard a stakeholder trusts.
 <p align="center">
 ✨ See the full interactive version of this profile → <a href="https://yashmalviya01.github.io/"><b>yashmalviya01.github.io</b></a>
 </p>
-
