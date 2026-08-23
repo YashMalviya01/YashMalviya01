@@ -37,20 +37,7 @@ SQL → Python → BI dashboard a stakeholder trusts.
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashMalviya01&show_icons=true&hide_title=true&count_private=true&bg_color=0D1117&title_color=F2B84B&icon_color=4FD1C5&text_color=E6EDF3&border_color=28303D" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMalviya01&layout=compact&hide_title=true&bg_color=0D1117&title_color=F2B84B&text_color=E6EDF3&border_color=28303D" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YashMalviya01&background=0D1117&ring=F2B84B&fire=F2B84B&currStreakLabel=E6EDF3&sideLabels=8B96A5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B96A5&border=28303D" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YashMalviya01&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+### 📊 Contribution activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YashMalviya01/YashMalviya01/output/github-contribution-grid-snake.svg" />
