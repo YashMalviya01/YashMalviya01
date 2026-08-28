@@ -115,14 +115,7 @@ A repository which contain all my interview prep learning queries.
 
 </div>
 
-> Note: the snake animation above needs a one-time GitHub Action set up in this repo — see setup notes below.
 
-**Fixing stats cards if they don't render:**
-1. Confirm your GitHub email is public or `show_icons=true` still works with a private one (it usually does).
-2. Try opening the image URL directly in a new browser tab — if it shows a Vercel error page, the shared instance is down; wait a few minutes or deploy your own free copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to Vercel (takes ~2 minutes, gives you a personal URL that won't rate-limit).
-3. Double check the username casing matches exactly: `YashMalviya01`.
-
-<br/>
 
 <div align="center">
 
