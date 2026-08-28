@@ -54,7 +54,7 @@
 
 </div>
 
-> If cards still don't load, GitHub's shared `vercel.app` stats service is likely rate-limited (a common, temporary issue). See the fix note at the bottom of this file. Adding `count_private=true` and `include_all_commits=true` above pulls in private-repo activity and all-time commits instead of just last year — this is usually why the auto card undercounts.
+
 
 <br/>
 
@@ -68,7 +68,6 @@
 
 </div>
 
-> Note: GitHub's auto-generated "top languages" card only detects file extensions it recognizes, and often undercounts `.sql` files or misses PostgreSQL-specific syntax entirely — so this row is a manual, accurate substitute rather than the auto-detected one.
 
 <br/>
 
