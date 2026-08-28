@@ -55,8 +55,6 @@
 
 </div>
 
-> If cards still don't load, GitHub's shared `vercel.app` stats service is likely rate-limited (a common, temporary issue).
-
 <br/>
 
 <div align="center">
@@ -68,8 +66,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
-
-> Note: GitHub's auto-generated "top languages" card only detects file extensions it recognizes, and often undercounts `.sql` files or misses PostgreSQL-specific syntax entirely — so this row is a manual, accurate substitute rather than the auto-detected one.
 
 <br/>
 
