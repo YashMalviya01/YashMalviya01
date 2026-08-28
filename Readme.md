@@ -50,7 +50,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-nine-rho-61.vercel.app/api?username=YashMalviya01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=E8E8E8&cache_seconds=1800" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=YashMalviya01&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" width="48%"/>
+
 
 </div>
 
