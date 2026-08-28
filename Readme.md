@@ -103,23 +103,8 @@ Explored Contoso's multi-year retail transactions to model store-level KPIs, sea
 </td>
 <td width="50%" valign="top">
 
-### 📈 Superstore Profitability Dashboard
-**Tools:** Tableau · Excel
-Interactive Tableau dashboard on the classic Sample Superstore dataset — diagnosed why certain sub-categories (like Tables) lose money despite high sales, with discount-vs-profit drill-downs by region.
-[`View Project →`](#)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🏦 Bank Customer Churn Prediction
-**Tools:** Python · Scikit-learn · SQL
-End-to-end churn model on bank customer data — feature engineering from transaction/demographic tables, logistic regression + random forest comparison, and a Streamlit app to flag at-risk customers.
-[`View Project →`](#)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
