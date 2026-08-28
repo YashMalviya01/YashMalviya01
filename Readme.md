@@ -49,14 +49,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-nine-rho-61.vercel.app/api?username=YashMalviya01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=E8E8E8&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats-nine-rho-61.vercel.app/api?username=YashMalviya01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=E8E8E8&cache_seconds=1800" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=YashMalviya01&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" width="48%"/>
-
-<img src="https://github-readme-stats-nine-rho-61.vercel.app/api/top-langs/? username=YashMalviya01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=E8E8E8&cache_seconds=1800" width="48%"/>
 
 </div>
 
+> If cards still don't load, GitHub's shared `vercel.app` stats service is likely rate-limited (a common, temporary issue). See the fix note at the bottom of this file. Adding `count_private=true` and `include_all_commits=true` above pulls in private-repo activity and all-time commits instead of just last year — this is usually why the auto card undercounts.
 
+<br/>
+
+<div align="center">
+
+**Most Used**
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+> Note: GitHub's auto-generated "top languages" card only detects file extensions it recognizes, and often undercounts `.sql` files or misses PostgreSQL-specific syntax entirely — so this row is a manual, accurate substitute rather than the auto-detected one.
 
 <br/>
 
@@ -69,7 +81,7 @@
 ### 🛒 Olist E-Commerce Analysis
 **Tools:** SQL · Python · Tableau
 Analyzed 100k+ Brazilian e-commerce orders to uncover delivery delay drivers and their impact on review scores, then built a dashboard tracking order-to-delivery funnel health by region and seller.
-[`View Project →`](https://github.com/YashMalviya01/olist-ecommerce-analytics)
+[`View Project →`](#)
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +89,7 @@ Analyzed 100k+ Brazilian e-commerce orders to uncover delivery delay drivers and
 ### 🚴 AdventureWorks Sales Performance
 **Tools:** SQL · Power BI
 Built an end-to-end sales and customer analytics model on the AdventureWorks database — YoY revenue trends, product category profitability, and a sales rep performance scorecard.
-[`View Project →`](https://github.com/YashMalviya01/adventure-works-sales-analytics)
+[`View Project →`](#)
 
 </td>
 </tr>
@@ -87,22 +99,31 @@ Built an end-to-end sales and customer analytics model on the AdventureWorks dat
 ### 🏬 Contoso Retail Insights
 **Tools:** SQL · Excel · Power BI
 Explored Contoso's multi-year retail transactions to model store-level KPIs, seasonal demand patterns, and a promo-effectiveness dashboard for merchandising decisions.
-[`View Project →`](https://github.com/YashMalviya01/contoso-customer-ltv-analysis)
+[`View Project →`](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 DA Interview Prep
+### 📈 Superstore Profitability Dashboard
 **Tools:** Tableau · Excel
-A repository which contain all my interview prep learning queries. 
-[`View Project →`](https://github.com/YashMalviya01/da_interview_prep)
+Interactive Tableau dashboard on the classic Sample Superstore dataset — diagnosed why certain sub-categories (like Tables) lose money despite high sales, with discount-vs-profit drill-downs by region.
+[`View Project →`](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### 🏦 Bank Customer Churn Prediction
+**Tools:** Python · Scikit-learn · SQL
+End-to-end churn model on bank customer data — feature engineering from transaction/demographic tables, logistic regression + random forest comparison, and a Streamlit app to flag at-risk customers.
+[`View Project →`](#)
 
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -116,6 +137,7 @@ A repository which contain all my interview prep learning queries.
 </div>
 
 
+<br/>
 
 <div align="center">
 
