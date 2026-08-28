@@ -14,7 +14,7 @@
 <a href="https://yash-malviya-da-portfolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://public.tableau.com/app/profile/yash.malviya6387/vizzes">
   <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </a>
 
