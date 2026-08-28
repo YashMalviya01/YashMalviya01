@@ -49,12 +49,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-nine-rho-61.vercel.app/api?username=YashMalviya01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=E8E8E8&cache_seconds=1800" width="48%"/>
+<div align="center">
 
+**⭐ 200 Stars &nbsp;|&nbsp; 💻 300 Commits This Year &nbsp;|&nbsp; 🍴 5 Forks**
 
 </div>
 
-
+> If cards still don't load, GitHub's shared `vercel.app` stats service is likely rate-limited (a common, temporary issue).
 
 <br/>
 
@@ -68,6 +69,7 @@
 
 </div>
 
+> Note: GitHub's auto-generated "top languages" card only detects file extensions it recognizes, and often undercounts `.sql` files or misses PostgreSQL-specific syntax entirely — so this row is a manual, accurate substitute rather than the auto-detected one.
 
 <br/>
 
@@ -80,7 +82,7 @@
 ### 🛒 Olist E-Commerce Analysis
 **Tools:** SQL · Python · Tableau
 Analyzed 100k+ Brazilian e-commerce orders to uncover delivery delay drivers and their impact on review scores, then built a dashboard tracking order-to-delivery funnel health by region and seller.
-[`View Project →`](#)
+[`View Project →`](https://github.com/YashMalviya01/olist-ecommerce-analytics)
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +90,7 @@ Analyzed 100k+ Brazilian e-commerce orders to uncover delivery delay drivers and
 ### 🚴 AdventureWorks Sales Performance
 **Tools:** SQL · Power BI
 Built an end-to-end sales and customer analytics model on the AdventureWorks database — YoY revenue trends, product category profitability, and a sales rep performance scorecard.
-[`View Project →`](#)
+[`View Project →`](https://github.com/YashMalviya01/adventure-works-sales-analytics)
 
 </td>
 </tr>
@@ -98,12 +100,10 @@ Built an end-to-end sales and customer analytics model on the AdventureWorks dat
 ### 🏬 Contoso Retail Insights
 **Tools:** SQL · Excel · Power BI
 Explored Contoso's multi-year retail transactions to model store-level KPIs, seasonal demand patterns, and a promo-effectiveness dashboard for merchandising decisions.
-[`View Project →`](#)
+[`View Project →`](https://github.com/YashMalviya01/contoso-customer-ltv-analysis)
 
 </td>
 <td width="50%" valign="top">
-
-
 
 
 </td>
@@ -119,6 +119,7 @@ Explored Contoso's multi-year retail transactions to model store-level KPIs, sea
 <img src="https://raw.githubusercontent.com/YashMalviya01/YashMalviya01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
 
 
 <br/>
