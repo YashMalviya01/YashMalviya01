@@ -66,7 +66,7 @@
 
 </div>
 
-> Note: the snake animation above needs a one-time GitHub Action set up in this repo — see setup notes below.
+
 
 <br/>
 
