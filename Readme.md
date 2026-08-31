@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yash%20Malviya&fontSize=55&fontColor=F5A623&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%2B%20Python%20%2B%20Tableau&descAlignY=58&descSize=20&descColor=E8E8E8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=650&lines=I+turn+messy+datasets+into+decisions.;SQL+%E2%86%92+Python+%E2%86%92+a+Tableau+dashboard+stakeholders+trust.;Open+to+Data+%2F+Business+%2F+BI+Analyst+roles." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=650&lines=I+turn+messy+datasets+into+decisions.;SQL+%E2%86%92+Python+%E2%86%92+a+Tableau+dashboard+stakeholders.;Open+to+Data+%2F+Business+%2F+BI+Analyst+roles." alt="Typing SVG" />
 </a>
 
 <br/>
